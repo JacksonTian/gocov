@@ -1,0 +1,15 @@
+{
+  "name": "@jacksontian/gocov",
+  "version": "1.0.0",
+  "bin": {
+    "gocov": "bin/report.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "main": "index.js",
+  "description": "The better Golang test coverage report than 'go tool cover'"
+}
