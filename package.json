@@ -11,5 +11,6 @@
   "author": "",
   "license": "BSD-3-Clause",
   "main": "index.js",
-  "description": "The better Golang test coverage report than 'go tool cover'"
+  "description": "The better Golang test coverage report than 'go tool cover'",
+  "files": ["bin"]
 }
